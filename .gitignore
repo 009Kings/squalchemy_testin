@@ -1,0 +1,6 @@
+bin
+lib
+include
+.vscode
+__pycache__
+
